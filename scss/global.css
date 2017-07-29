@@ -1,19 +1,19 @@
 @font-face {
   font-family: 'Gotham';
-  src: url("Gotham-Medium.eot");
-  src: url("Gotham-Medium.eot?#iefix") format("embedded-opentype"), url("Gotham-Medium.woff") format("woff"), url("Gotham-Medium.ttf") format("truetype");
+  src: url("../fonts/Gotham-Medium.eot");
+  src: url("../fonts/Gotham-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Medium.woff") format("woff"), url("../fonts/Gotham-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal; }
 @font-face {
   font-family: 'Gotham';
-  src: url("Gotham-Thin.eot");
-  src: url("Gotham-Thin.eot?#iefix") format("embedded-opentype"), url("Gotham-Thin.woff") format("woff"), url("Gotham-Thin.ttf") format("truetype");
+  src: url("../fonts/Gotham-Thin.eot");
+  src: url("../fonts/Gotham-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Thin.woff") format("woff"), url("../fonts/Gotham-Thin.ttf") format("truetype");
   font-weight: 100;
   font-style: normal; }
 @font-face {
   font-family: 'Gotham';
-  src: url("Gotham-Light.eot");
-  src: url("Gotham-Light.eot?#iefix") format("embedded-opentype"), url("Gotham-Light.woff") format("woff"), url("Gotham-Light.ttf") format("truetype");
+  src: url("../fonts/Gotham-Light.eot");
+  src: url("../fonts/Gotham-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Light.woff") format("woff"), url("../fonts/Gotham-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 @media (max-width: 600px) {
@@ -52,20 +52,20 @@ body {
 
 @font-face {
   font-family: 'Gotham';
-  src: url("Gotham-Medium.eot");
-  src: url("Gotham-Medium.eot?#iefix") format("embedded-opentype"), url("Gotham-Medium.woff") format("woff"), url("Gotham-Medium.ttf") format("truetype");
+  src: url("../fonts/Gotham-Medium.eot");
+  src: url("../fonts/Gotham-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Medium.woff") format("woff"), url("../fonts/Gotham-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal; }
 @font-face {
   font-family: 'Gotham';
-  src: url("Gotham-Thin.eot");
-  src: url("Gotham-Thin.eot?#iefix") format("embedded-opentype"), url("Gotham-Thin.woff") format("woff"), url("Gotham-Thin.ttf") format("truetype");
+  src: url("../fonts/Gotham-Thin.eot");
+  src: url("../fonts/Gotham-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Thin.woff") format("woff"), url("../fonts/Gotham-Thin.ttf") format("truetype");
   font-weight: 100;
   font-style: normal; }
 @font-face {
   font-family: 'Gotham';
-  src: url("Gotham-Light.eot");
-  src: url("Gotham-Light.eot?#iefix") format("embedded-opentype"), url("Gotham-Light.woff") format("woff"), url("Gotham-Light.ttf") format("truetype");
+  src: url("../fonts/Gotham-Light.eot");
+  src: url("../fonts/Gotham-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Light.woff") format("woff"), url("../fonts/Gotham-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 /*-----------------------------header-------------------------*/
